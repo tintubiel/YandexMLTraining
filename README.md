@@ -1,5 +1,5 @@
 # Yandex ML Training 1.0
-
+[Yandex Machine Learning Training 1.0 Certificate ](YMLT_1.pdf)
 
 ## My solution of Yandex ML Training homework
 1. [k-Nearest Neighbor (kNN) implementation](https://github.com/tintubiel/YandexMLTraining/tree/main/homework1)
